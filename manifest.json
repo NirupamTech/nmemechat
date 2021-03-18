@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+
+  "name": "NMemeChat",
+  "description": "A meme chat by Nirupam Tech",
+  "version": "2.0",
+  "icons": {
+    "128": "NMemeChat.png",
+    "48": "NMemeChat.png",
+    "16": "NMemeChat.png"
+  },
+
+  "browser_action": {
+    "default_icon": "NMemeChat.png",
+    "default_popup": "index.html"
+  }
+}
