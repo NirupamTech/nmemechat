@@ -2,12 +2,13 @@
 // So we don't have ridiculous errors.
 window.onload = function() {
     var firebaseConfig = {
-        apiKey: "AIzaSyAXmFgogS_hZbtjpLOSUMXGM3AhdZ9DJdw",
-        authDomain: "nmemechat2.firebaseapp.com",
-        projectId: "nmemechat2",
-        storageBucket: "nmemechat2.appspot.com",
-        messagingSenderId: "338830229614",
-        appId: "1:338830229614:web:a886381ba446fde90c267f"
+        apiKey: "AIzaSyDA3a4znxWfOz357kfTIkLAn_didlOe2bo",
+        authDomain: "nmemechat.firebaseapp.com",
+        projectId: "nmemechat",
+        storageBucket: "nmemechat.appspot.com",
+        messagingSenderId: "671726955781",
+        appId: "1:671726955781:web:efcb2cd6fde76bc44f9b6c",
+        measurementId: "G-ZZ47E1F1LC"
       };
       // Initialize Firebase
       firebase.initializeApp(firebaseConfig);
